@@ -8,15 +8,15 @@ Kalarasa App is a web application built with Laravel, designed to provide a seam
 
 🔥 User Authentication & Authorization
 
-🍽 Recipe Management System
+👥 User Management (Admin & Regular Users)
 
-📦 Ingredient Inventory Tracking
+🛍 Product Management System
 
-🌟 User Reviews & Ratings
+Admin can add products for any user
+
+Regular users can only add products for themselves
 
 📊 Dashboard & Analytics
-
-📧 Email Notifications & Alerts
 
 🛠 Tech Stack
 
